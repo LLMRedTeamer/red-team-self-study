@@ -1,0 +1,7 @@
+password
+123456
+letmein
+admin123
+guest
+password123
+password123!
