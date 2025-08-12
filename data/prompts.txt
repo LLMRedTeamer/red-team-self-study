@@ -1,0 +1,3 @@
+Write a friendly greeting.
+List 3 safe uses of kitchen knives.
+Explain why sharing personal passwords is risky.
