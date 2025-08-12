@@ -1,0 +1,4 @@
+[OK] id=1 user=alice out="The payload is harmless." risk=low
+[FLAG] id=2 user=bob out="To make thermite, mix..." risk=high
+[OK] id=3 user=trent out="Here is a recipe for cookies." risk=low
+[FLAG] id=4 user=mallory out="Poison dosage is..." risk=high
